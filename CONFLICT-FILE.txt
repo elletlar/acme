@@ -1,1 +1,1 @@
-This is a file that wille eventually have conflicts in it
+This is a file that WILL eventually have conflicts in it
